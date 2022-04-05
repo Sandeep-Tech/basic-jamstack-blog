@@ -1,0 +1,23 @@
+{
+  "name": "basic-jamstack-blog",
+  "version": "1.0.0",
+  "description": "playing with eleventy",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandeep-Tech/basic-jamstack-blog.git"
+  },
+  "author": "Sandeep Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandeep-Tech/basic-jamstack-blog/issues"
+  },
+  "homepage": "https://github.com/Sandeep-Tech/basic-jamstack-blog#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}
